@@ -14,7 +14,6 @@ This repository contains a comprehensive analysis of the S&P 500 stock market da
 - [Analysis Steps](#analysis-steps)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -34,7 +33,7 @@ The dataset used for this analysis consists of historical S&P 500 stock market d
 - [Pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
-- [Statsmodels](https://www.statsmodels.org/)
+- [Seaborn](https://seaborn.pydata.org)
 
 ## Installation
 
@@ -42,15 +41,15 @@ To run the analysis locally, follow these steps:
 
 1. Clone this repository:
 
-    ```bash
-    git clone https://github.com/Giyanellow/Time-Series-Analysis-on-S-P-500-Stock-Market-Data
-    ```
+   ```bash
+   git clone https://github.com/Giyanellow/Time-Series-Analysis-on-S-P-500-Stock-Market-Data
+   ```
 
 2. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
@@ -76,5 +75,3 @@ The results of the time series analysis will be presented in the Jupyter Noteboo
 If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. Contributions are welcome!
 
 ---
-
-*Note: Replace placeholders such as `[Provide the source link or reference to the dataset used]` and `[your-username]` with the actual dataset source link and your GitHub username.*
