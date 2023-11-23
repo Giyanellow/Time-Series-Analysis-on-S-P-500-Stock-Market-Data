@@ -43,8 +43,7 @@ To run the analysis locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/sp500-time-series-analysis.git
-    cd sp500-time-series-analysis
+    git clone https://github.com/Giyanellow/Time-Series-Analysis-on-S-P-500-Stock-Market-Data
     ```
 
 2. Install the required dependencies:
@@ -63,10 +62,10 @@ To run the analysis locally, follow these steps:
 The analysis is structured into the following steps:
 
 1. **Data Loading:** Load the S&P 500 dataset and perform initial exploratory data analysis.
-2. **Time Series Decomposition:** Decompose the time series into its components (trend, seasonality, and residuals).
-3. **Stationarity Check:** Check and enhance stationarity of the time series data.
-4. **Modeling:** Apply time series models such as ARIMA, SARIMA, or other suitable models.
-5. **Evaluation:** Evaluate the model's performance and interpret the results.
+2. **Analysing change in price of the stock overtime:** Decompose the time series into its components (trend, seasonality, and residuals).
+3. **Moving Average:** Computation of Moving Average through different time windows.
+4. **Closing Price change analysis in apple stock:** Figuring out patterns from apple stock closing
+5. **Determining if there is correlation between these companies' closing prices:** Determination of price correlation between the four (4) tech companies.
 
 ## Results
 
@@ -75,10 +74,6 @@ The results of the time series analysis will be presented in the Jupyter Noteboo
 ## Contributing
 
 If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
