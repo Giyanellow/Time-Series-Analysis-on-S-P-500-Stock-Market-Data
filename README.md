@@ -23,8 +23,6 @@ Time series analysis is a crucial aspect of understanding the behavior of financ
 
 The dataset used for this analysis consists of historical S&P 500 stock market data, including daily closing prices, trading volumes, and other relevant metrics.
 
-**Dataset Source:** [Provide the source link or reference to the dataset used]
-
 ## Tools and Libraries
 
 - Jupyter Notebook
